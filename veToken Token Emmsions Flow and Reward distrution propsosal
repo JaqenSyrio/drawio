@@ -1,1 +1,73 @@
-<mxfile host="app.diagrams.net" modified="2022-02-27T04:27:57.075Z" agent="5.0 (Windows)" version="16.6.4" etag="q5t-YkcrkGd7CgKN19Be" type="github"><diagram id="hD7jtBhCDKMyFjhBVJ76">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-02-27T04:51:22.203Z" agent="5.0 (Windows)" etag="TdAfMmkdYbJgMBv7mOv9" version="16.6.4" type="github">
+  <diagram id="hD7jtBhCDKMyFjhBVJ76" name="Page-1">
+    <mxGraphModel dx="1038" dy="660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="yuERfTss5X73pTkraOz7-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="yuERfTss5X73pTkraOz7-1" target="yuERfTss5X73pTkraOz7-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="425" y="240" />
+              <mxPoint x="210" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yuERfTss5X73pTkraOz7-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="yuERfTss5X73pTkraOz7-1" target="yuERfTss5X73pTkraOz7-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="425" y="240" />
+              <mxPoint x="680" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yuERfTss5X73pTkraOz7-1" value="100 Million VE3D" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yuERfTss5X73pTkraOz7-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yuERfTss5X73pTkraOz7-2" target="yuERfTss5X73pTkraOz7-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yuERfTss5X73pTkraOz7-2" value="30 Million VE3D For BondSubContract Mint" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yuERfTss5X73pTkraOz7-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yuERfTss5X73pTkraOz7-3" target="yuERfTss5X73pTkraOz7-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yuERfTss5X73pTkraOz7-3" value="30 Million VE3D For LP rewards &lt;br&gt;SubContract " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yuERfTss5X73pTkraOz7-7" value="ve3CRV- CRV LP &lt;br&gt;Bond Contract" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yuERfTss5X73pTkraOz7-8" value="ve3Dill - Pickle LP &lt;br&gt;Bond Contract" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yuERfTss5X73pTkraOz7-9" value="ve3RBN - RBN Bond Contract" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yuERfTss5X73pTkraOz7-10" value="Pickle Booster " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="485" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yuERfTss5X73pTkraOz7-11" value="Other ve3Asset - Asset LP &lt;br&gt;Bond Contract" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yuERfTss5X73pTkraOz7-12" value="CRV Booster " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yuERfTss5X73pTkraOz7-13" value="RBN Booster " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yuERfTss5X73pTkraOz7-14" value="Other ve-model " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yuERfTss5X73pTkraOz7-17" value="Mint VE3D&lt;br&gt;For each contract, will decide the size and &lt;br&gt;price of VE3D " style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="225" y="325" width="230" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yuERfTss5X73pTkraOz7-18" value="Mint VE3D" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="690" y="340" width="70" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
