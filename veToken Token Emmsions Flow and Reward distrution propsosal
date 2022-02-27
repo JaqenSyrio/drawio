@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-27T05:03:33.358Z" agent="5.0 (Windows)" etag="cStfYqzWvJUtjVWZmMDa" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-27T05:13:43.349Z" agent="5.0 (Windows)" etag="KHuMW1QrrLk8lf294-GP" version="16.6.4" type="github">
   <diagram id="hD7jtBhCDKMyFjhBVJ76" name="Page-1">
-    <mxGraphModel dx="1038" dy="660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1221" dy="776" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -72,8 +72,8 @@
         <mxCell id="yuERfTss5X73pTkraOz7-17" value="Mint VE3D&lt;br&gt;For each contract, will decide the size and &lt;br&gt;price of VE3D " style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="225" y="325" width="230" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="yuERfTss5X73pTkraOz7-18" value="Mint VE3D&lt;br&gt;Different token have different parameter " style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="615" y="335" width="220" height="30" as="geometry" />
+        <mxCell id="yuERfTss5X73pTkraOz7-18" value="Mint VE3D&lt;br&gt;Different token have different emission rates&amp;nbsp; " style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="600" y="335" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yuERfTss5X73pTkraOz7-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yuERfTss5X73pTkraOz7-20" target="yuERfTss5X73pTkraOz7-21">
           <mxGeometry relative="1" as="geometry" />
@@ -118,8 +118,8 @@
         <mxCell id="yuERfTss5X73pTkraOz7-33" value="(20%) " style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="455" y="860" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yuERfTss5X73pTkraOz7-34" value="all the number can be updated in smart contract" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="190" y="910" width="260" height="20" as="geometry" />
+        <mxCell id="yuERfTss5X73pTkraOz7-34" value="all the number can be updated in smart contract, &lt;br&gt;including lock time, and fee distribution percentage " style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="180" y="905" width="280" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
