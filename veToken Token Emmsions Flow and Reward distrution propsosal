@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2022-02-27T05:13:43.349Z" agent="5.0 (Windows)" etag="KHuMW1QrrLk8lf294-GP" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-02T07:25:53.133Z" agent="5.0 (Windows)" etag="GuUBAb_ogG0ZxayrkDYa" version="16.6.4" type="github">
   <diagram id="hD7jtBhCDKMyFjhBVJ76" name="Page-1">
-    <mxGraphModel dx="1221" dy="776" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1504" dy="664" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="yuERfTss5X73pTkraOz7-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="yuERfTss5X73pTkraOz7-1" target="yuERfTss5X73pTkraOz7-2">
+        <mxCell id="yuERfTss5X73pTkraOz7-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="yuERfTss5X73pTkraOz7-1" target="yuERfTss5X73pTkraOz7-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="425" y="240" />
@@ -12,7 +12,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="yuERfTss5X73pTkraOz7-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="yuERfTss5X73pTkraOz7-1" target="yuERfTss5X73pTkraOz7-3">
+        <mxCell id="yuERfTss5X73pTkraOz7-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="yuERfTss5X73pTkraOz7-1" target="yuERfTss5X73pTkraOz7-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="425" y="240" />
@@ -20,82 +20,82 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="yuERfTss5X73pTkraOz7-1" value="100 Million VE3D" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yuERfTss5X73pTkraOz7-1" value="100 Million VE3D" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="365" y="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yuERfTss5X73pTkraOz7-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yuERfTss5X73pTkraOz7-2" target="yuERfTss5X73pTkraOz7-7">
+        <mxCell id="yuERfTss5X73pTkraOz7-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="yuERfTss5X73pTkraOz7-2" target="yuERfTss5X73pTkraOz7-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="210" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yuERfTss5X73pTkraOz7-2" value="30 Million VE3D For BondSubContract Mint" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yuERfTss5X73pTkraOz7-2" value="30 Million VE3D For BondSubContract Mint" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yuERfTss5X73pTkraOz7-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yuERfTss5X73pTkraOz7-3" target="yuERfTss5X73pTkraOz7-12">
+        <mxCell id="yuERfTss5X73pTkraOz7-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="yuERfTss5X73pTkraOz7-3" target="yuERfTss5X73pTkraOz7-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yuERfTss5X73pTkraOz7-3" value="30 Million VE3D For LP rewards &lt;br&gt;SubContract " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yuERfTss5X73pTkraOz7-3" value="30 Million VE3D For LP rewards &lt;br&gt;SubContract " style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="620" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yuERfTss5X73pTkraOz7-7" value="ve3CRV- CRV LP &lt;br&gt;Bond Contract" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yuERfTss5X73pTkraOz7-7" value="ve3CRV- CRV LP &lt;br&gt;Bond Contract" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yuERfTss5X73pTkraOz7-8" value="ve3Dill - Pickle LP &lt;br&gt;Bond Contract" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yuERfTss5X73pTkraOz7-8" value="ve3Dill - Pickle LP &lt;br&gt;Bond Contract" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="20" y="390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yuERfTss5X73pTkraOz7-9" value="ve3RBN - RBN Bond Contract" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yuERfTss5X73pTkraOz7-9" value="ve3RBN - RBN Bond Contract" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yuERfTss5X73pTkraOz7-10" value="Pickle Booster " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yuERfTss5X73pTkraOz7-10" value="Pickle Booster " style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="485" y="390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yuERfTss5X73pTkraOz7-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="yuERfTss5X73pTkraOz7-11" target="yuERfTss5X73pTkraOz7-21">
+        <mxCell id="yuERfTss5X73pTkraOz7-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="yuERfTss5X73pTkraOz7-11" target="yuERfTss5X73pTkraOz7-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yuERfTss5X73pTkraOz7-38" value="give VE3D &lt;br&gt;10 days vesting with discount " style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yuERfTss5X73pTkraOz7-36">
+        <mxCell id="yuERfTss5X73pTkraOz7-38" value="give VE3D &lt;br&gt;10 days vesting with discount " style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="yuERfTss5X73pTkraOz7-36" vertex="1" connectable="0">
           <mxGeometry x="-0.7243" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yuERfTss5X73pTkraOz7-11" value="Other ve3Asset - Asset LP &lt;br&gt;Bond Contract" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yuERfTss5X73pTkraOz7-11" value="Other ve3Asset - Asset LP &lt;br&gt;Bond Contract" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="470" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yuERfTss5X73pTkraOz7-12" value="CRV Booster " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yuERfTss5X73pTkraOz7-12" value="CRV Booster " style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="620" y="390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yuERfTss5X73pTkraOz7-13" value="RBN Booster " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yuERfTss5X73pTkraOz7-13" value="RBN Booster " style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="760" y="390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yuERfTss5X73pTkraOz7-14" value="Other ve-model " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yuERfTss5X73pTkraOz7-14" value="Other ve-model " style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="620" y="470" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yuERfTss5X73pTkraOz7-17" value="Mint VE3D&lt;br&gt;For each contract, will decide the size and &lt;br&gt;price of VE3D " style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="yuERfTss5X73pTkraOz7-17" value="Mint VE3D&lt;br&gt;For each contract, will decide the size and &lt;br&gt;price of VE3D " style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="225" y="325" width="230" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="yuERfTss5X73pTkraOz7-18" value="Mint VE3D&lt;br&gt;Different token have different emission rates&amp;nbsp; " style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="yuERfTss5X73pTkraOz7-18" value="Mint VE3D&lt;br&gt;Different token have different emission rates&amp;nbsp; " style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="600" y="335" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yuERfTss5X73pTkraOz7-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yuERfTss5X73pTkraOz7-20" target="yuERfTss5X73pTkraOz7-21">
+        <mxCell id="yuERfTss5X73pTkraOz7-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="yuERfTss5X73pTkraOz7-20" target="yuERfTss5X73pTkraOz7-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yuERfTss5X73pTkraOz7-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="yuERfTss5X73pTkraOz7-20" target="yuERfTss5X73pTkraOz7-23">
+        <mxCell id="yuERfTss5X73pTkraOz7-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="yuERfTss5X73pTkraOz7-20" target="yuERfTss5X73pTkraOz7-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yuERfTss5X73pTkraOz7-20" value="Reward Distribution from ve-Token LP pools(16%)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yuERfTss5X73pTkraOz7-20" value="Reward Distribution from ve-Token LP pools(16%)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="390" y="660" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yuERfTss5X73pTkraOz7-21" value="VE3D staking pool&lt;br&gt;(No Lock)&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yuERfTss5X73pTkraOz7-21" value="VE3D staking pool&lt;br&gt;(No Lock)&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="770" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yuERfTss5X73pTkraOz7-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="yuERfTss5X73pTkraOz7-23">
+        <mxCell id="yuERfTss5X73pTkraOz7-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" parent="1" source="yuERfTss5X73pTkraOz7-23" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="450" y="900" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yuERfTss5X73pTkraOz7-23" value="VE3D staking pool&lt;br&gt;(16 weeks Lock) with Voting power" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yuERfTss5X73pTkraOz7-23" value="VE3D staking pool&lt;br&gt;(16 weeks Lock) with Voting power" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="390" y="770" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yuERfTss5X73pTkraOz7-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="yuERfTss5X73pTkraOz7-27" target="yuERfTss5X73pTkraOz7-21">
+        <mxCell id="yuERfTss5X73pTkraOz7-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="yuERfTss5X73pTkraOz7-27" target="yuERfTss5X73pTkraOz7-21" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="630" y="900" />
@@ -103,23 +103,108 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="yuERfTss5X73pTkraOz7-27" value="Reward Distribution from veAsset protocol fees " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yuERfTss5X73pTkraOz7-27" value="Reward Distribution from veAsset protocol fees " style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="570" y="660" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yuERfTss5X73pTkraOz7-30" value="(11%) " style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yuERfTss5X73pTkraOz7-30" value="(11%) " style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="455" y="720" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yuERfTss5X73pTkraOz7-31" value="(5%) -" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yuERfTss5X73pTkraOz7-31" value="(5%) -" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="210" y="720" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yuERfTss5X73pTkraOz7-32" value="(80%) " style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yuERfTss5X73pTkraOz7-32" value="(80%) " style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="220" y="860" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yuERfTss5X73pTkraOz7-33" value="(20%) " style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yuERfTss5X73pTkraOz7-33" value="(20%) " style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="455" y="860" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yuERfTss5X73pTkraOz7-34" value="all the number can be updated in smart contract, &lt;br&gt;including lock time, and fee distribution percentage " style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="yuERfTss5X73pTkraOz7-34" value="all the number can be updated in smart contract, &lt;br&gt;including lock time, and fee distribution percentage " style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="180" y="905" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nuSegC7nvA0-e74Tx-2a-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nuSegC7nvA0-e74Tx-2a-3" target="nuSegC7nvA0-e74Tx-2a-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nuSegC7nvA0-e74Tx-2a-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="nuSegC7nvA0-e74Tx-2a-3" target="nuSegC7nvA0-e74Tx-2a-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nuSegC7nvA0-e74Tx-2a-3" value="Reward Distribution from ve-Token LP pools(16%)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="1080" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nuSegC7nvA0-e74Tx-2a-4" value="ve3Asset (ve3Dill, ve3Pickle)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="1190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nuSegC7nvA0-e74Tx-2a-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="nuSegC7nvA0-e74Tx-2a-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="610" y="1320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nuSegC7nvA0-e74Tx-2a-6" value="VE3D staking pool&lt;br&gt;(16 weeks Lock) with Voting power" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="1190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nuSegC7nvA0-e74Tx-2a-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.45;exitY=1.05;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="nuSegC7nvA0-e74Tx-2a-31" target="nuSegC7nvA0-e74Tx-2a-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="790" y="1153" />
+              <mxPoint x="790" y="1320" />
+              <mxPoint x="370" y="1320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nuSegC7nvA0-e74Tx-2a-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nuSegC7nvA0-e74Tx-2a-8" target="nuSegC7nvA0-e74Tx-2a-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nuSegC7nvA0-e74Tx-2a-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nuSegC7nvA0-e74Tx-2a-8" target="nuSegC7nvA0-e74Tx-2a-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nuSegC7nvA0-e74Tx-2a-8" value="CVX LP minting" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="1090" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nuSegC7nvA0-e74Tx-2a-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nuSegC7nvA0-e74Tx-2a-9" target="nuSegC7nvA0-e74Tx-2a-27">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="190" y="1140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nuSegC7nvA0-e74Tx-2a-9" value="1%" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="615" y="1140" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nuSegC7nvA0-e74Tx-2a-10" value="10%" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="1140" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nuSegC7nvA0-e74Tx-2a-11" value="100%" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="1280" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nuSegC7nvA0-e74Tx-2a-12" value="0%" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="615" y="1280" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nuSegC7nvA0-e74Tx-2a-27" value="CVX staker" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="1190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nuSegC7nvA0-e74Tx-2a-29" value="5%" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="1110" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nuSegC7nvA0-e74Tx-2a-30" value="This is CVX model" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="405" y="1340" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nuSegC7nvA0-e74Tx-2a-31" value="Reward Distribution from veAsset protocol fees " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="1090" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nuSegC7nvA0-e74Tx-2a-32" value="sushi CVX-ETH&lt;br&gt;cvxCRV-CRV" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="1190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nuSegC7nvA0-e74Tx-2a-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nuSegC7nvA0-e74Tx-2a-34" target="nuSegC7nvA0-e74Tx-2a-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1170" y="1270" />
+              <mxPoint x="1300" y="1270" />
+              <mxPoint x="1300" y="1060" />
+              <mxPoint x="610" y="1060" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nuSegC7nvA0-e74Tx-2a-34" value="Curve LP farming " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="1190" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
