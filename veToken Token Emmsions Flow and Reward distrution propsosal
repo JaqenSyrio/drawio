@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-02T07:25:53.133Z" agent="5.0 (Windows)" etag="GuUBAb_ogG0ZxayrkDYa" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-03T06:07:46.938Z" agent="5.0 (Windows)" etag="Xe5mBrZ8g7VQqlooxelW" version="16.6.4" type="github">
   <diagram id="hD7jtBhCDKMyFjhBVJ76" name="Page-1">
-    <mxGraphModel dx="1504" dy="664" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1221" dy="776" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -33,6 +33,14 @@
         </mxCell>
         <mxCell id="yuERfTss5X73pTkraOz7-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="yuERfTss5X73pTkraOz7-3" target="yuERfTss5X73pTkraOz7-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ftTxGnEpA0FCLFNo_Q27-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yuERfTss5X73pTkraOz7-3" target="ftTxGnEpA0FCLFNo_Q27-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="970" y="290" />
+              <mxPoint x="970" y="800" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="yuERfTss5X73pTkraOz7-3" value="30 Million VE3D For LP rewards &lt;br&gt;SubContract " style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="620" y="260" width="120" height="60" as="geometry" />
@@ -81,7 +89,7 @@
         <mxCell id="yuERfTss5X73pTkraOz7-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="yuERfTss5X73pTkraOz7-20" target="yuERfTss5X73pTkraOz7-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yuERfTss5X73pTkraOz7-20" value="Reward Distribution from ve-Token LP pools(16%)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="yuERfTss5X73pTkraOz7-20" value="Reward Distribution from ve-Token LP pools(16%)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99CCFF;" parent="1" vertex="1">
           <mxGeometry x="390" y="660" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yuERfTss5X73pTkraOz7-21" value="VE3D staking pool&lt;br&gt;(No Lock)&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -103,7 +111,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="yuERfTss5X73pTkraOz7-27" value="Reward Distribution from veAsset protocol fees " style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="ftTxGnEpA0FCLFNo_Q27-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="yuERfTss5X73pTkraOz7-27" target="ftTxGnEpA0FCLFNo_Q27-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yuERfTss5X73pTkraOz7-27" value="Reward Distribution from veAsset protocol fees " style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99FFCC;" parent="1" vertex="1">
           <mxGeometry x="570" y="660" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yuERfTss5X73pTkraOz7-30" value="(11%) " style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -121,11 +132,20 @@
         <mxCell id="yuERfTss5X73pTkraOz7-34" value="all the number can be updated in smart contract, &lt;br&gt;including lock time, and fee distribution percentage " style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="180" y="905" width="280" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="ftTxGnEpA0FCLFNo_Q27-1" value="ve3Dill staker" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="nuSegC7nvA0-e74Tx-2a-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nuSegC7nvA0-e74Tx-2a-3" target="nuSegC7nvA0-e74Tx-2a-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="ftTxGnEpA0FCLFNo_Q27-3" value="(0%)" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="720" width="60" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="nuSegC7nvA0-e74Tx-2a-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="nuSegC7nvA0-e74Tx-2a-3" target="nuSegC7nvA0-e74Tx-2a-6">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ftTxGnEpA0FCLFNo_Q27-5" value="(0%)" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="770" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nuSegC7nvA0-e74Tx-2a-3" value="Reward Distribution from ve-Token LP pools(16%)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="1080" width="120" height="60" as="geometry" />
